@@ -1,3 +1,7 @@
+## Parcours français
+
+Un [parcours documentaire en français](docs/fr/) explique le flux FHEVM, les permissions, le déchiffrement et les limites côté interface.
+
 # FHEVM React Template
 
 A minimal React + Foundry template for building FHEVM-enabled dApps. Ships with `FHECounter.sol` (a trivial encrypted counter) and a Next.js frontend that reads, writes, and decrypts its value.
